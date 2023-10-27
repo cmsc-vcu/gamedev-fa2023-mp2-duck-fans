@@ -1,6 +1,7 @@
-# gamedev-fa2023-mp2-template
+Thank you for playing Ducky Gets Dressed! Collect 10 hats and avoid the
+anvils to win. INSTALLATION: No installation required. Follow the link
+to play! https://play.unity.com/mg/other/ducky-gets-dressed CONTROLS:
+Use A + D to control Ducky. Use the Space Bar or W to jump. Made with
+Unity Engine.
 
-This is a template repo for Intro to Game Dev, Fall 2023, Minor Project 2.
-See:
-  <https://virginiacommonwealth.instructure.com/courses/86151/assignments/735642>
-  
+Music is Home Sweet Home from Earthbound.
